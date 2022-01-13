@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 -->
 
 <!--
-   
--->
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandyBnjmn&show_icons=true&theme=gruvbox)
 
-<table>
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandyBnjmn&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--<table>
   <thead>
     <tr>
       <th>
-         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandyBnjmn&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+         
       </th>
       <th>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandyBnjmn&show_icons=true&theme=gruvbox)
+        
       </th>
     </tr>
   </thead>
 </table>
+-->
